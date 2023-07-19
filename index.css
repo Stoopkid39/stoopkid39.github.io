@@ -7,8 +7,12 @@
   width: 100%;
   {
 
-    nav {
-      align-items: flex-end;
-      padding: 10px;
-      
+head {
+  position: fixed;
+}
+nav {
+  margin: auto;
+  position: absolute;
+  
+     
     }
