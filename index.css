@@ -3,11 +3,11 @@
 }
 
 .flex-container {
-  display: flex
+  display: flex;
   {
 
     nav {
       align-items: flex-end;
       padding: 10px;
-      margin: auto;
+      
     }
