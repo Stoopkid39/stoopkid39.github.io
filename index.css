@@ -1,3 +1,13 @@
 * {
   font-family: Lugrasimo;
 }
+
+.flex-container {
+  display: flex
+  {
+
+    nav {
+      flex: flex-end;
+      padding: 10px;
+      margin: auto;
+    }
